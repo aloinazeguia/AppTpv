@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAPSTfJHoPA=",
+  "success": true,
+  "projectFilePath": "/Users/Anetxu/Soziedadea/AppTpv/BezeroaWPF/BezeroaWPF.csproj",
+  "expectedPackageFiles": [
+    "/Users/Anetxu/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.12/microsoft.windowsdesktop.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
