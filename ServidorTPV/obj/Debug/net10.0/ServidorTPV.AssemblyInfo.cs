@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServidorTPV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f15a2a340ac117a23398ea6b6bd67fb67b10dfe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServidorTPV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServidorTPV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

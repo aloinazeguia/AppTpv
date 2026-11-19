@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/ClienteWPF.csproj": {}
+    "/Users/Anetxu/AppTpv/ClienteWPF/ClienteWPF.csproj": {}
   },
   "projects": {
-    "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/ClienteWPF.csproj": {
+    "/Users/Anetxu/AppTpv/ClienteWPF/ClienteWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/ClienteWPF.csproj",
+        "projectUniqueName": "/Users/Anetxu/AppTpv/ClienteWPF/ClienteWPF.csproj",
         "projectName": "AppTpv",
-        "projectPath": "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/ClienteWPF.csproj",
+        "projectPath": "/Users/Anetxu/AppTpv/ClienteWPF/ClienteWPF.csproj",
         "packagesPath": "/Users/Anetxu/.nuget/packages/",
-        "outputPath": "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/obj/",
+        "outputPath": "/Users/Anetxu/AppTpv/ClienteWPF/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Anetxu/.nuget/NuGet/NuGet.Config"

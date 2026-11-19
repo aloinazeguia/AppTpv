@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/2mkolldak=",
+  "dgSpecHash": "VgXbyhQQMKw=",
   "success": true,
-  "projectFilePath": "/Users/Anetxu/Desktop/AppTpv/ClienteWPF/ClienteWPF.csproj",
+  "projectFilePath": "/Users/Anetxu/AppTpv/ClienteWPF/ClienteWPF.csproj",
   "expectedPackageFiles": [
     "/Users/Anetxu/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.12/microsoft.windowsdesktop.app.ref.10.0.12.nupkg.sha512"
   ],

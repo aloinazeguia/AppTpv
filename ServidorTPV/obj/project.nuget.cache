@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emQfqnJfxTs=",
+  "dgSpecHash": "sb+Ia/2yc1c=",
   "success": true,
-  "projectFilePath": "/Users/Anetxu/Desktop/AppTpv/ServidorTPV/ServidorTPV.csproj",
+  "projectFilePath": "/Users/Anetxu/AppTpv/ServidorTPV/ServidorTPV.csproj",
   "expectedPackageFiles": [
     "/Users/Anetxu/.nuget/packages/microsoft.data.sqlite/10.0.14/microsoft.data.sqlite.10.0.14.nupkg.sha512",
     "/Users/Anetxu/.nuget/packages/microsoft.data.sqlite.core/10.0.14/microsoft.data.sqlite.core.10.0.14.nupkg.sha512",

@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Anetxu/Desktop/AppTpv/ServidorTPV/ServidorTPV.csproj",
+      "projectUniqueName": "/Users/Anetxu/AppTpv/ServidorTPV/ServidorTPV.csproj",
       "projectName": "ServidorTPV",
-      "projectPath": "/Users/Anetxu/Desktop/AppTpv/ServidorTPV/ServidorTPV.csproj",
+      "projectPath": "/Users/Anetxu/AppTpv/ServidorTPV/ServidorTPV.csproj",
       "packagesPath": "/Users/Anetxu/.nuget/packages/",
-      "outputPath": "/Users/Anetxu/Desktop/AppTpv/ServidorTPV/obj/",
+      "outputPath": "/Users/Anetxu/AppTpv/ServidorTPV/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Anetxu/.nuget/NuGet/NuGet.Config"
